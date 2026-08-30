@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Architecture Review"
+  short_description: "Review Unity architecture and lifecycle risks"
+  default_prompt: "Use $unity-architecture-review to review this Unity project and rank findings by severity."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Feature Scaffold"
+  short_description: "Create feature-owned Unity folders on demand"
+  default_prompt: "Use $unity-feature-scaffold to create the minimal folder structure for a new Unity feature."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Build Validation"
+  short_description: "Validate Unity build readiness and configuration"
+  default_prompt: "Use $unity-build-validation to check whether this Unity project is ready to build."

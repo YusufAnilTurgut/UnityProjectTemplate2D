@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Project Bootstrap"
+  short_description: "Personalize and verify this Unity template"
+  default_prompt: "Use $unity-project-bootstrap to initialize this template, create its project brief, review packages, and validate the first import."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Feature Workflow"
+  short_description: "Implement Unity features through a verified workflow"
+  default_prompt: "Use $unity-feature-workflow to implement this Unity feature end to end."
